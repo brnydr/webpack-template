@@ -27,7 +27,7 @@
 * type **npm install** into the terminal and press Enter on the keyboard
 * type **npm run build** into the terminal and press Enter on the keyboard
 * type **npm run start** into the terminal and press Enter on the keyboard
-* Delete all boilerplate content in index.html, index.js, and test files to customize for your project. 
+* Delete all boilerplate content in index.html, index.js, package.json and test files to customize for your project. 
 * Open a web browser and navigate to **localhost:8080**
 * When ready to run tests, type **npm run test** into the terminal and press Enter on the keyboard (no tests exist at installation)
 
